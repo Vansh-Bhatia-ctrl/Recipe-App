@@ -70,4 +70,4 @@ README.md
 
 ## Contributing
 
-Contributions are welcome! feel free to open a pull request.
+Contributions are welcome! Feel free to open a pull request.
